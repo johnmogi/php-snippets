@@ -52,3 +52,7 @@ class NewObj extends Obj {
     }   
     
 }
+
+4. cover both polymorphism + abstract class
+
+
